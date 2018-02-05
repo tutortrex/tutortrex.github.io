@@ -1,5 +1,7 @@
 # tutortrex.github.io
 
+## Hello Wandarer, you've reached another parallel universe
+
 ### [Tutor T-Rex](https://tutortrex.wordpress.com/) is just another technological blogging site. In which, I post the projects I work(ed) on 😉
 
 #### GitHub Projects
